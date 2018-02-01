@@ -5,20 +5,19 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "sleekblog" # the subpath of your site, e.g. /blog
-url: "https://lindoy.github.io/sleek" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://lindoy.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: linda_doyle_ # replace with your_twitter_username or comment to remove link from footer
+github_username:  lindoyle # replace with your_github_username or comment to remove link from footer
 instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 social:
-  name: Your Name
+  name: linda Doyle
   links:
-    - https://twitter.com/BenBalter
+    - https://twitter.com/linda_doyle_
     - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
+    - https://www.linkedin.com/in/lindoyle/
     - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://github.com/lindoyle
 
 disqus:
   shortname: janczizikow # to enable comments replace with your_disqus_shortname
