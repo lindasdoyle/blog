@@ -4,9 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Please get in touch! :D 
-
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+Feel free to get in touch! Fill in the form or [email me](mailto:{{site.email}}).
 
 {% include form.html %}
 
